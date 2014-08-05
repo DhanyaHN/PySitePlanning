@@ -1,0 +1,60 @@
+site dimension: 360*480
+---------------------------------------------------
+ground floor
+
+Home theatre
+left:100, top:0, length: 50, width:200
+
+bed room
+left:50, top: 160, length: 200, width:300
+
+Drawing room
+left:0, top: 50, length: 110, width:75
+
+kitchen
+left:380, top: 50, length: 110, width: 100
+
+Living area
+top:50, left:75, length:110, width: 305
+
+Passage
+left:0, top:160, length:200, width:50
+
+Rest Room
+left:0, top:0, length:50, width: 100
+
+Entrance
+left:300, top:0, length: 50, width:180
+
+Stair case
+left: 350, top: 160, length: 200, width:130
+---------------------------------------------------
+first floor
+
+Home theatre
+left:100, top:0, length: 50, width:200
+
+bed room
+left:50, top: 160, length: 200, width:300
+
+Drawing room
+left:0, top: 50, length: 110, width:75
+
+kitchen
+left:380, top: 50, length: 110, width: 100
+
+Living area
+top:50, left:75, length:110, width: 305
+
+Passage
+left:0, top:160, length:200, width:50
+
+Rest Room
+left:0, top:0, length:50, width: 100
+
+Entrance
+left:300, top:0, length: 50, width:180
+
+
+
+
